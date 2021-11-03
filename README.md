@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @parsafarvadian
-- 👀 I’m interested in Game Development & Web Design
-- 🌱 I’m currently learning HTML & CSS
-- 📫 Email: parsafarvadian@gmail.com
+Hey, I’m Parsa Farvadian!
+📫 Email: parsafarvadian@gmail.com
